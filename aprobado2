@@ -16,3 +16,6 @@ if len(sys.argv) == 3:
         print("desaprobo los 2 parciales")
 else:
     print("Error, debe ingresar 2 notas")
+
+print("commit)")
+
